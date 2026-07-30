@@ -74,4 +74,3 @@ NLP-Projects/
 │   ├── Sentimental Analusis.ipynb
 │   └── BERT_Sentiment_Analysis.docx
 └── README.md
-```
